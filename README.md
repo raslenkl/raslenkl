@@ -2,9 +2,8 @@
 **Software Engineer • Game Developer • Content Creator**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raslen-klai-532513197)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@voidedthoughts)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://voidedgamestudio.itch.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klairaslen@gmail.com)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://voidedgamestudio.itch.io)
 
 ---
 
@@ -14,7 +13,7 @@ Third-year **Software Engineering student** at **Universiti Kebangsaan Malaysia 
 
 - 🏆 **CGPA: 3.90 / 4.00** — Dean's List every semester
 - 🎮 **Published Game Developer** — *Others' Shoes* on itch.io
-- 📺 **Content Creator** — Built YouTube channel to 65,000 subscribers independently
+- 📺 **Content Creator** — Independently produced long-form philosophy & psychology content (65,000+ subscribers)
 - 🏅 **Hackathon Winner** — 3rd Runner Up at Hackathon Vibe: Gen AI 2026
 - 🌍 **Multilingual** — English (C1 Advanced), Arabic, French, German
 
@@ -105,20 +104,14 @@ Built during **Hackathon Vibe: Gen AI 2026** (🥉 3rd Runner Up)
 
 ## 📺 Content Creation
 
-### YouTube — [@voidedthoughts](https://youtube.com/@voidedthoughts) — **65,000+ Subscribers**
-
-Philosophy & Psychology Channel | Solo-produced
+**Philosophy & Psychology Channel** — 65,000+ Subscribers (Anonymous)
 
 - **Everything from scratch:** Scripting, editing, audio direction, growth strategy handled entirely independently
-- **Upload cadence:** Biweekly cinematic, research-driven content
+- **Upload cadence:** Biweekly cinematic, research-driven long-form content
 - **Growth:** Organically built from 0 to 65K+ subscribers
 - **Demonstrates:** Narrative writing, research depth, consistency, and sustained project ownership at scale
 
-<p align="center">
-  <a href="https://youtube.com/@voidedthoughts">
-    <strong>→ Watch philosophy & psychology deep-dives</strong>
-  </a>
-</p>
+*Channel kept anonymous by choice — reach out privately if you'd like to learn more about the project.*
 
 ---
 
@@ -158,7 +151,6 @@ Philosophy & Psychology Channel | Solo-produced
 - 📧 **Email:** [klairaslen@gmail.com](mailto:klairaslen@gmail.com)
 - 💼 **LinkedIn:** [raslen-klai-532513197](https://linkedin.com/in/raslen-klai-532513197)
 - 🐙 **GitHub:** [@raslenkl](https://github.com/raslenkl)
-- 📺 **YouTube:** [@voidedthoughts](https://youtube.com/@voidedthoughts)
 - 🎮 **itch.io:** [Voided Game Studio](https://voidedgamestudio.itch.io)
 
 **Resources:**
@@ -179,7 +171,7 @@ Philosophy & Psychology Channel | Solo-produced
 ## 🚀 Fun Facts
 
 - 🎮 Built a **published game** that makes players *feel* educational inequality
-- 📺 Created a **65K-subscriber YouTube channel** entirely solo (scriptwriting to final edit)
+- 📺 Created a **65K-subscriber content channel** entirely solo (scriptwriting to final edit) — kept anonymous by choice
 - 🎓 Maintained **Dean's List every semester** while juggling game dev, content creation, and studies
 - 🌍 Fluent in **4 languages** across 3 continents
 - 🏆 Placed in **multiple hackathons** — love collaborative problem-solving under pressure
