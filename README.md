@@ -13,7 +13,7 @@ Third-year **Software Engineering student** at **Universiti Kebangsaan Malaysia 
 
 - 🏆 **CGPA: 3.90 / 4.00** — Dean's List every semester
 - 🎮 **Published Game Developer** — *Others' Shoes* on itch.io (serious game exploring inequality)
-- 📺 **Content Creator** — Independently produced long-form philosophy & psychology content (73,000+ subscribers)
+- 📺 **Content Creator** — Independently produced content (73,000+ subscribers)
 - 🏅 **Hackathon Winner** — 3rd Runner Up at Hackathon Vibe: Gen AI 2026
 - 🌍 **Multilingual** — English (C1 Advanced), Arabic, French, German
 
@@ -45,8 +45,8 @@ Third-year **Software Engineering student** at **Universiti Kebangsaan Malaysia 
 
 ---
 
-### 🏗️ **CPMS** — Construction Project Management System
-**Full-stack Android application** for contractor-client workflows with real-time collaboration, task tracking, and budget visualization.
+### 🏗️ **CPMS** — [View Repository](https://github.com/raslenkl/CPMS)
+**Construction Project Management System** — Full-stack Android application for contractor-client workflows with real-time collaboration, task tracking, and budget visualization.
 
 - **Scope:** Enterprise-level app handling complex construction workflows
 - **Features:** 
@@ -56,10 +56,9 @@ Third-year **Software Engineering student** at **Universiti Kebangsaan Malaysia 
   - Project timeline & milestone tracking
   - Resource allocation & team coordination
 - **Tech Stack:** `Kotlin` • `Android Studio` • `Firebase` (real-time sync) • `MySQL` backend
-- **Architecture:** Clean separation between UI, business logic, and data layers; optimized for performance with 1000+ concurrent tasks
+- **Architecture:** MVVM with clean separation between UI, business logic, and data layers; optimized for 1000+ concurrent tasks
 - **Role:** **Solo full-stack developer** — design, implementation, testing, and deployment
 - **Status:** ✅ **Completed & Production-Ready**
-- **[View Repository](https://github.com/raslenkl/CPMS)**
 
 ---
 
@@ -119,14 +118,13 @@ Built during **Hackathon Vibe: Gen AI 2026** (🥉 3rd Runner Up)
 
 ## 📺 Content Creation
 
-**Philosophy & Psychology Channel** — 73,000+ Subscribers (Anonymous)
+**73,000+ Subscribers** (Anonymous)
 
 - **Everything from scratch:** Scripting, editing, audio direction, growth strategy handled entirely independently
-- **Upload cadence:** Biweekly cinematic, research-driven long-form content
-- **Growth:** Organically built from 0 to 73K+ subscribers
-- **Demonstrates:** Narrative writing, research depth, consistency, and sustained project ownership at scale
+- **Organic growth:** Built from 0 to 73K+ subscribers through consistency and quality
+- **Demonstrates:** Narrative writing, research depth, and sustained project ownership at scale
 
-*Channel kept anonymous by choice — reach out privately if you'd like to learn more about the project.*
+*Kept anonymous by choice — reach out if you'd like to learn more.*
 
 ---
 
@@ -168,10 +166,6 @@ Built during **Hackathon Vibe: Gen AI 2026** (🥉 3rd Runner Up)
 - 🐙 **GitHub:** [@raslenkl](https://github.com/raslenkl)
 - 🎮 **itch.io:** [Voided Game Studio](https://voidedgamestudio.itch.io)
 
-**Resources:**
-- 📁 **Full Portfolio:** [raslene-portfolio](https://github.com/raslenkl/raslene-portfolio)
-- 📄 **CV (HTML):** [Download](https://github.com/raslenkl/raslene-portfolio/blob/main/CV.html)
-
 ---
 
 ## 🎯 What I'm Looking For
@@ -186,7 +180,7 @@ Built during **Hackathon Vibe: Gen AI 2026** (🥉 3rd Runner Up)
 ## 🚀 Fun Facts
 
 - 🎮 Built a **published serious game** that makes players *feel* educational inequality — combining technical depth with meaningful creative vision
-- 📺 Created a **73K-subscriber content channel** entirely solo (scriptwriting to final edit) — kept anonymous by choice
+- 📺 Created a **73K-subscriber content channel** entirely solo — kept anonymous by choice
 - 🎓 Maintained **Dean's List every semester** while juggling published game dev, content creation, and studies
 - 🌍 Fluent in **4 languages** across 3 continents
 - 🏆 Placed in **multiple hackathons** — love collaborative problem-solving under pressure
