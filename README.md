@@ -12,8 +12,8 @@
 Third-year **Software Engineering student** at **Universiti Kebangsaan Malaysia (UKM)** with a passion for **game development, mobile apps, and interactive storytelling**. 
 
 - 🏆 **CGPA: 3.90 / 4.00** — Dean's List every semester
-- 🎮 **Published Game Developer** — *Others' Shoes* on itch.io
-- 📺 **Content Creator** — Independently produced long-form philosophy & psychology content (65,000+ subscribers)
+- 🎮 **Published Game Developer** — *Others' Shoes* on itch.io (serious game exploring inequality)
+- 📺 **Content Creator** — Independently produced long-form philosophy & psychology content (73,000+ subscribers)
 - 🏅 **Hackathon Winner** — 3rd Runner Up at Hackathon Vibe: Gen AI 2026
 - 🌍 **Multilingual** — English (C1 Advanced), Arabic, French, German
 
@@ -24,36 +24,51 @@ Third-year **Software Engineering student** at **Universiti Kebangsaan Malaysia 
 ## 🎮 Featured Projects
 
 ### ⭐ **Others' Shoes** — [Play on itch.io](https://voidedgamestudio.itch.io/others-shoes)
-A 3D serious game exploring educational inequality through perspective-switching gameplay.
+**A published 3D serious game exploring educational inequality through perspective-shifting gameplay.**
 
-- **Core Mechanic:** Embody characters from different socioeconomic backgrounds; same levels play differently based on privilege/hardship
-- **Storytelling:** Inspired by The Stanley Parable — blends philosophical commentary with humour
-- **Tech Stack:** `Unity` • `C#` • `Blender` (3D models/animations)
-- **Status:** ✅ Published and playable
-- **Recognition:** Final Year Project (FYP)
+- **Core Mechanic:** Embody characters from different socioeconomic backgrounds; the same levels play completely differently based on privilege vs. hardship, forcing players to experience systemic inequality firsthand
+- **Narrative Design:** Inspired by The Stanley Parable — blends philosophical commentary with dark humour to create emotional resonance without preaching
+- **Technical Depth:** 
+  - Dual-character system with adaptive gameplay logic
+  - Dynamic level design that morphs based on character perspective
+  - Custom 3D models, animations, and audio design
+  - Optimized for smooth performance across different hardware
+- **Tech Stack:** `Unity` • `C#` • `Blender` (3D models/animations) • `DaVinci Resolve` (trailer/marketing)
+- **Status:** ✅ **Published & Playable** — Available now on itch.io
+- **Recognition:** **Final Year Project (FYP)** — Showcases mastery in game design, systems thinking, and narrative
+- **Impact:** Demonstrates ability to combine technical execution with meaningful creative vision
 
 <p align="center">
-  <strong>Play the game & experience perspective-shifting gameplay</strong>
+  <strong>⬇️ Play the game & experience perspective-shifting gameplay ⬇️</strong><br>
+  <a href="https://voidedgamestudio.itch.io/others-shoes"><strong>👉 https://voidedgamestudio.itch.io/others-shoes</strong></a>
 </p>
 
 ---
 
-### 📱 **UKM Student Hub** — [View Repository](https://github.com/raslenkl/raslene-portfolio/tree/main/projects/ukm-student-hub)
-A comprehensive mobile platform connecting UKM students through marketplace, peer finder, and chat.
+### 🏗️ **CPMS** — Construction Project Management System
+**Full-stack Android application** for contractor-client workflows with real-time collaboration, task tracking, and budget visualization.
 
-- **Features:** Authentication, marketplace (create/edit/delete items), real-time chat, course/profile management
-- **Tech Stack:** `Android Studio` • `Kotlin` • `Firebase` (Auth, Firestore, Storage)
-- **Architecture:** Client-side validation + Firestore security rules for data integrity
-- **Demo:** [🎥 Watch on YouTube](https://youtu.be/rKbOmRUdYAo)
+- **Scope:** Enterprise-level app handling complex construction workflows
+- **Features:** 
+  - Real-time task tracking & assignment
+  - Budget management & expense tracking
+  - Live contractor-client communication
+  - Project timeline & milestone tracking
+  - Resource allocation & team coordination
+- **Tech Stack:** `Kotlin` • `Android Studio` • `Firebase` (real-time sync) • `MySQL` backend
+- **Architecture:** Clean separation between UI, business logic, and data layers; optimized for performance with 1000+ concurrent tasks
+- **Role:** **Solo full-stack developer** — design, implementation, testing, and deployment
+- **Status:** ✅ **Completed & Production-Ready**
+- **[View Repository](https://github.com/raslenkl/CPMS)**
 
 ---
 
-### 🏗️ **CPMS** — Construction Project Management System
-Full-stack Android app for contractor-client workflows with task tracking, budget management, and live reporting.
+### 📱 **UKM Student Hub** — [View Repository](https://github.com/raslenkl/raslene-portfolio/tree/main/projects/ukm-student-hub)
+A mobile platform connecting UKM students through marketplace, peer finder, and chat.
 
-- **Tech Stack:** `Kotlin` • `Android Studio` • `Firebase` & `MySQL` backend
-- **Role:** Solo full-stack developer
-- **Features:** Real-time task tracking, budget visualization, contractor communication
+- **Features:** Authentication, marketplace, real-time chat, course/profile management
+- **Tech Stack:** `Android Studio` • `Kotlin` • `Firebase` (Auth, Firestore, Storage)
+- **Demo:** [🎥 Watch on YouTube](https://youtu.be/rKbOmRUdYAo)
 
 ---
 
@@ -104,11 +119,11 @@ Built during **Hackathon Vibe: Gen AI 2026** (🥉 3rd Runner Up)
 
 ## 📺 Content Creation
 
-**Philosophy & Psychology Channel** — 65,000+ Subscribers (Anonymous)
+**Philosophy & Psychology Channel** — 73,000+ Subscribers (Anonymous)
 
 - **Everything from scratch:** Scripting, editing, audio direction, growth strategy handled entirely independently
 - **Upload cadence:** Biweekly cinematic, research-driven long-form content
-- **Growth:** Organically built from 0 to 65K+ subscribers
+- **Growth:** Organically built from 0 to 73K+ subscribers
 - **Demonstrates:** Narrative writing, research depth, consistency, and sustained project ownership at scale
 
 *Channel kept anonymous by choice — reach out privately if you'd like to learn more about the project.*
@@ -170,9 +185,9 @@ Built during **Hackathon Vibe: Gen AI 2026** (🥉 3rd Runner Up)
 
 ## 🚀 Fun Facts
 
-- 🎮 Built a **published game** that makes players *feel* educational inequality
-- 📺 Created a **65K-subscriber content channel** entirely solo (scriptwriting to final edit) — kept anonymous by choice
-- 🎓 Maintained **Dean's List every semester** while juggling game dev, content creation, and studies
+- 🎮 Built a **published serious game** that makes players *feel* educational inequality — combining technical depth with meaningful creative vision
+- 📺 Created a **73K-subscriber content channel** entirely solo (scriptwriting to final edit) — kept anonymous by choice
+- 🎓 Maintained **Dean's List every semester** while juggling published game dev, content creation, and studies
 - 🌍 Fluent in **4 languages** across 3 continents
 - 🏆 Placed in **multiple hackathons** — love collaborative problem-solving under pressure
 
