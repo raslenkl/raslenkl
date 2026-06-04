@@ -3,7 +3,6 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klairaslen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raslene-klai-532513197/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raslene.dev)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://voidedgamestudio.itch.io)
 
 ---
@@ -35,7 +34,6 @@ A narrative puzzle game where you embody two university students with identical 
 - **Recognition:** **Final Year Project (FYP)** — Showcases mastery in game design, systems thinking, and narrative design
 - **Download Stats:** 16+ downloads, player feedback collected
 
-[→ View Full Case Study on Portfolio](https://raslene.dev/projects/others-shoes)
 
 ---
 
@@ -51,7 +49,6 @@ An enterprise-level app that streamlines complex construction projects through r
 - **Status:** ✅ **Production-Ready**
 - **[Demo Video](https://youtu.be/R4n2Dl9IjIA)** | **[View Repository](https://github.com/raslenkl/CPMS)**
 
-[→ View Full Case Study on Portfolio](https://raslene.dev/projects/cpms)
 
 ---
 
@@ -142,7 +139,6 @@ Built an independent creative project from 0 to 73,000+ audience entirely solo �
 
 - 📧 **Email:** [klairaslen@gmail.com](mailto:klairaslen@gmail.com)
 - 💼 **LinkedIn:** [raslene-klai-532513197](https://www.linkedin.com/in/raslene-klai-532513197/)
-- 🌐 **Portfolio:** [raslene.dev](https://raslene.dev)
 - 🎮 **itch.io:** [Voided Game Studio](https://voidedgamestudio.itch.io)
 - 📄 **CV:** Available on portfolio
 
@@ -160,6 +156,6 @@ Strong foundation in **game development, mobile apps, and full-stack systems**. 
 
 **Open to collaboration, meaningful projects, and interesting problems.**
 
-[👉 Visit Portfolio](https://raslene.dev) · [📧 Get in Touch](mailto:klairaslen@gmail.com)
+ [📧 Get in Touch](mailto:klairaslen@gmail.com)
 
 </div>
